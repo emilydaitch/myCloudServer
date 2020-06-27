@@ -1,0 +1,22 @@
+{
+  "name": "mycloudserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilydaitch/myCloudServer.git"
+  },
+  "author": "Emily Daitch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilydaitch/myCloudServer/issues"
+  },
+  "homepage": "https://github.com/emilydaitch/myCloudServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
