@@ -29,6 +29,14 @@ nav {
   align-items: center;
 }
 
+p.contact {
+	margin-top: 24vh;
+	align-items: center;
+	text-align: center;
+	font-size: 2vw;
+	color: #00ffaf;
+}
+
 .nav-links {
   display: flex;
   list-style: none;
